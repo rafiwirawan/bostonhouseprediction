@@ -1,4 +1,4 @@
-# boston house prediction
+# Boston House Prediction
 
 Dataset collected from homes in suburbs of Boston is being trained and tested by machine learning. This Dataset provides important features such as : tax, distance from working center, number of room per house, nitric oxides concentration, etc. 
 
